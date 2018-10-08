@@ -1,0 +1,29 @@
+[{
+    "title": "MYSQL",
+    "day": "60天",
+    "cpu": "2核cpu",
+    "size": "4GB内存",
+    "xi": "40G系统盘",
+    "shu": "100G数据盘"
+}, {
+    "title": "Postrsql",
+    "day": "60天",
+    "cpu": "4核cpu",
+    "size": "4GB内存",
+    "xi": "40G系统盘",
+    "shu": "100G数据盘"
+}, {
+    "title": "SQL server",
+    "day": "30天",
+    "cpu": "2核cpu",
+    "size": "8GB内存",
+    "xi": "40G系统盘",
+    "shu": "100G数据盘"
+}, {
+    "title": "MYSQLDB",
+    "day": "30天",
+    "cpu": "2核cpu",
+    "size": "8GB内存",
+    "xi": "40G系统盘",
+    "shu": "100G数据盘"
+}]
